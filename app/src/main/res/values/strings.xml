@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">图像处理</string>
+    <string name="image_processing">图像处理</string>
+    <string name="check">查看</string>
+    <string name="enhance">增强</string>
+    <string name="effect">特效</string>
+    <string name="photo_frame">相框</string>
+    <string name="person">其他</string>
+    <string name="choose">选择</string>
+    <string name="save">保存</string>
+
+</resources>
